@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Finalproject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Plated</string>
+    <string name="nav_header_subtitle">For A Perfectly Planned Meal</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_shopping">Shopping List</string>
+    <string name="menu_help">Help</string>
+
+    <string name="today">Today</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="date">Placeholder</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="share">Share</string>
+    <string name="no">Back</string>
+    <string name="yes">Add</string>
+    <string name="make_me">Make Me</string>
+    <string name="weekly_title">Meals for the next week</string>
+    <string name="monthly_title">Meals for </string>
+    <string name="breakfast_label">Breakfast |  </string>
+    <string name="lunch_label">Lunch |  </string>
+    <string name="dinner_label">Dinner |  </string>
+    <string name="search_title">Search Recipes</string>
+    <string name="search_btn">SEARCH</string>
+    <string name="search_hint">Enter Search</string>
+    <string name="day_title">Meals for :  </string>
+
+    <string name="recipe_image_des">This image contains the recipe</string>
+    <string name="heart_fill_des">This image is the placeholder for the heart fill animation</string>
+
+    <string name="help_page1">Navigating the App</string>
+    <string name="help_page2">When you open the app, you are presented with the home page. On the home page you will see various buttons. At the top there are three buttons; daily, weekly, and monthly. These are your buttons to navigate you to the page representing your meals for today, this week, or this month. By default, you are on the daily page.</string>
+    <string name="help_page3">On the daily page there are three buttons presented to you; breakfast, lunch, and dinner. These will take you to the search page where you can search for a recipe, or if you already have one set, it will display the recipe.</string>
+    <string name="help_page4">On the daily page there are three buttons presented to you; breakfast, lunch, and dinner. These will take you to the search page where you can search for a recipe, or if you already have one set, it will display the recipe.</string>
+    <string name="help_page5">If you are brought to the search page, you will be presented with a search bar as well as a search button. You can type in a word like “beef” or “chicken” and it will bring up various recipes relevant to your search. When you click on the recipe name in the list, it will open up a new page.</string>
+    <string name="help_page6">On this new page you will see a picture of the dish at the top, the title of the dish, two buttons: a heart and a share button, the ingredient list for the recipe, and then a button at the bottom named "make me.” If you click on the heart button, it will add the recipe to a list of your favorite recipes. You can un-click this button if you change your mind. If you click the share button it will allow you to share the recipe by email. If you click on the “make me” button, it will take you to the full recipe online. If you long click on an ingredient in the list, it will add it to your shopping list. This list contains all the ingredients you need to buy to make your recipe.</string>
+    <string name="help_page7">If you click on the weekly button on the home page, it will change and display this week and the recipes for breakfast, lunch, and dinner for each day. If you have a recipe set for a meal on any day, it will display the title of the recipe next to which meal it is for. If you do not have one, it will not display anything. When you click on any of the three meals for any day, it will have the same actions as the daily buttons: If there is no recipe you are taken to search, or it will display the recipe.</string>
+    <string name="help_page8">If you click on the monthly view button on the home page, it will change and display a calendar view of the month. It will highlight the current date on the calendar, but you can click on any day in the upcoming future. If you click on a day, it will show the breakfast, lunch, and dinner below the calendar. If you have a recipe set for a meal it will display the title of the recipe next to which meal it is for. If you do not have one, it will not display anything just like the weekly. When you click on any of the meals for that day, it will have the same actions as the daily buttons: If there is no recipe you are taken to search, or it will display the recipe.</string>
+    <string name="help_page9">To access the favorites list, shopping list, the search page, or go back to the home page, you can use the three lines in the top left corner. If you are on the favorites or the shopping list page and there is an item that you no longer want there, you can long click to remove the item.</string>
+
+</resources>
